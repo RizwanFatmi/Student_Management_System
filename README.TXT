@@ -6,7 +6,7 @@
 
 
 
-  1. Simply open the SMS file in Command prompt(cmd) or PowerShell.	
+  1. Complile the SMS.cpp file and run.	
 
   2. Enjoy.........!!
  
