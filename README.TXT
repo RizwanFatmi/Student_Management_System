@@ -6,9 +6,9 @@
 
 
 
-  1. Complile the SMS.cpp file and run.	
+  1. Install Visual Studio Code.
 
-  2. Enjoy.........!!
+  2. Complile the SMS.cpp file and run.	
  
  
 -----------------------------------------------------------------------------------------
